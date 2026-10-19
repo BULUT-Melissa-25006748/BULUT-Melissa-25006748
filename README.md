@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BULUT-Melissa-25006748&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BULUT-Melissa-25006748&layout=donut&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **BULUT-Melissa-25006748/BULUT-Melissa-25006748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
