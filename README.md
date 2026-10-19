@@ -1,17 +1,11 @@
-## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BULUT-Melissa-25006748&layout=donut&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BULUT-Melissa-25006748&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**BULUT-Melissa-25006748/BULUT-Melissa-25006748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Salut 👋
+En deuxième année de BUT Informatique, passionnée par le développement. 👩🏻‍💻
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Outils & Langages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2++&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-69E6F2?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+</p>
